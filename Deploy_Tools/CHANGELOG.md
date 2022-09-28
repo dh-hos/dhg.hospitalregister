@@ -1,4 +1,5 @@
-DHG.Hospital Register - Thông tin cập nhật
+DHG.Hospital Register 
+- Thông tin cập nhật
 (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 v3.22.0928.1
