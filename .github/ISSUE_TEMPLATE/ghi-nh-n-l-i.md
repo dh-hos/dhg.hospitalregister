@@ -2,7 +2,7 @@
 name: Ghi nhận lỗi
 about: Mẫu ghi nhận thông tin chi tiết lỗi
 title: 'Lỗi - '
-labels: Lỗi (bug)
+labels: 2. Bình thường
 assignees: nghivanbi
 
 ---
