@@ -2,6 +2,9 @@ DHG.Hospital Register
 - Thông tin cập nhật
 (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.0919.3
+✨: Bổ sung nút "Lịch sử bệnh" form đăng ký.
+
 v3.23.0918.1
 ✨: Fix lỗi BANT không có thay đổi diễn biến lần đầu lập bệnh án, đăng ký tái khám.
 
