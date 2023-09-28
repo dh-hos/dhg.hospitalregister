@@ -2,6 +2,9 @@ DHG.Hospital Register
 - Thông tin cập nhật
 (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.0928.1
+🐛: Fix lỗi xem lịch sử khám bệnh.
+
 v3.23.0919.3
 ✨: Bổ sung nút "Lịch sử bệnh" form đăng ký.
 
