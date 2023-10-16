@@ -2,7 +2,7 @@ DHG.Hospital Register
 (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 v3.23.1026.1
-✨: Cập nhật Lisence BV Tâm Minh Đức - Tiền Giang.
+✨: Cập nhật License BV Tâm Minh Đức - Tiền Giang.
 
 v3.23.1012.1
 🐛: Fix lỗi in Sổ khám bệnh (tham số ptttskb = 0).
