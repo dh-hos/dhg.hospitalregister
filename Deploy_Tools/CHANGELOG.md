@@ -1,6 +1,9 @@
 DHG.Hospital Register
 (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.1225.1
+✨: Fix lỗi đăng ký tái khám bệnh án ngoại trú theo đợt.
+
 v3.23.1026.1
 ✨: Cập nhật License BV Tâm Minh Đức - Tiền Giang.
 
