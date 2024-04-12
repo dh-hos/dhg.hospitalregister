@@ -1,6 +1,9 @@
 DHG.Hospital Register
 (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.24.0412.2
+✨: Cập nhật các thông tin đầu vào hỗ trợ CV 130: xác nhận lưu trú, giấy lưu trú, trạng thái chuyển tuyến.
+
 v3.24.0202.1
 ✨: Cập nhật đơn vị mới: 77159 - Phòng khám đa khoa Medic Sài Gòn 4.
 
